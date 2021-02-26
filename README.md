@@ -1,4 +1,4 @@
-cuImage可以用来方便地上传图片到远程图床并获取Markdown格式的URL。
+cuImage可以用来方便地上传图片到远程图并获取Markdown格式的URL。
 
 # 功能
 
